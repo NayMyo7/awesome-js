@@ -1,0 +1,2 @@
+# awesome-js
+Awesome JavaScript
